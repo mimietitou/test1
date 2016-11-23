@@ -7,5 +7,9 @@
   </head>
   <body>
     <h1>Contact</h1>
+    <form class="" action="index.html" method="post">
+      <label for="">Nom</label>
+      <input type="text" name="" value="">
+    </form>
   </body>
 </html>
